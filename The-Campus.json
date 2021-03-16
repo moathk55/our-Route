@@ -1,0 +1,247 @@
+{
+    "The campus": [{
+            "name": "College of computer",
+            "distance": 550
+        },
+        {
+            "name": "College of business",
+            "distance": 210
+        },
+        {
+            "name": "College of medicine",
+            "distance": 170
+        },
+        {
+            "name": "College of agriculture",
+            "distance": 300
+        },
+        {
+            "name": "GYM",
+            "distance": 350
+        },
+        {
+            "name": "College of language",
+            "distance": 200
+        },
+        {
+            "name": "Grand mosque",
+            "distance": 350
+        },
+        {
+            "name": "College of engineering",
+            "distance": 250
+        },
+        {
+            "name": "College of architecture",
+            "distance": 350
+        },
+        {
+            "name": "College of science",
+            "distance": 200
+        }
+    ],
+
+    "College of computer": [{
+            "name": "The campus",
+            "distance": 550
+        },
+        {
+            "name": "GYM",
+            "distance": 400
+        },
+        {
+            "name": "College of agriculture",
+            "distance": 400
+        },
+        {
+            "name": "Dental clinic",
+            "distance": 250
+        }
+    ],
+
+    "Dental clinic": [{
+            "name": "College of computer",
+            "distance": 250
+        },
+        {
+            "name": "College of agriculture",
+            "distance": 110
+        },
+        {
+            "name": "Hospital",
+            "distance": 100
+        }
+    ],
+
+    "Hospital": [{
+            "name": "Dental clinic",
+            "distance": 100
+        },
+        {
+            "name": "College of medicine",
+            "distance": 130
+        },
+        {
+            "name": "Security",
+            "distance": 150
+        }
+    ],
+
+    "Security": [{
+            "name": "Hospital",
+            "distance": 150
+        },
+        {
+            "name": "Coffee shop",
+            "distance": 90
+        }
+    ],
+
+    "Coffee shop": [{
+            "name": "Security",
+            "distance": 90
+        },
+        {
+            "name": "College of business",
+            "distance": 70
+        }
+    ],
+
+    "College of business": [{
+            "name": "Coffee shop",
+            "distance": 70
+        },
+        {
+            "name": "College of medicine",
+            "distance": 100
+        },
+        {
+            "name": "The campus",
+            "distance": 210
+        },
+        {
+            "name": "College of science",
+            "distance": 250
+        }
+    ],
+
+    "College of medicine": [{
+            "name": "College of business",
+            "distance": 100
+        },
+        {
+            "name": "Hospital",
+            "distance": 130
+        },
+        {
+            "name": "College of agriculture",
+            "distance": 60
+        },
+        {
+            "name": "The campus",
+            "distance": 170
+        }
+    ],
+
+    "College of agriculture": [{
+        "name": "College of medicine",
+        "distance": 60
+    },
+    {
+        "name": "The campus",
+        "distance": 300
+    },
+    {
+        "name": "Dental clinic",
+        "distance": 110
+    },
+    {
+        "name": "College of computer",
+        "distance": 400
+    }
+    ],
+
+    "GYM": [{
+            "name": "College of computer",
+            "distance": 400
+        },
+        {
+            "name": "The campus",
+            "distance": 350
+        },
+        {
+            "name": "College of language",
+            "distance": 300
+        }
+    ],
+
+    "College of language": [{
+            "name": "GYM",
+            "distance": 300
+        },
+        {
+            "name": "The campus",
+            "distance": 200
+        },
+        {
+            "name": "Grand mosque",
+            "distance": 50
+        }
+    ],
+
+    "Grand mosque": [{
+            "name": "College of language",
+            "distance": 50
+        },
+        {
+            "name": "The campus",
+            "distance": 350
+        },
+        {
+            "name": "College of engineering",
+            "distance": 200
+        }
+    ],
+
+    "College of engineering": [{
+            "name": "Grand mosque",
+            "distance": 200
+        },
+        {
+            "name": "The campus",
+            "distance": 250
+        },
+        {
+            "name": "College of architecture",
+            "distance": 60
+        }
+    ],
+
+    "College of architecture": [{
+            "name": "College of engineering",
+            "distance": 60
+        },
+        {
+            "name": "The campus",
+            "distance": 350
+        },
+        {
+            "name": "College of science",
+            "distance": 350
+        }
+    ],
+    "College of science": [{
+        "name": "The campus",
+        "distance": 200
+    },
+    {
+        "name": "College of architecture",
+        "distance": 350
+    },
+    {
+        "name": "College of business",
+        "distance": 250
+    }
+    ]
+
+}
